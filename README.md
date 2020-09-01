@@ -1,4 +1,4 @@
-# Exemplo de formulário com vários tipos de animações com JS e CSS 
+Exemplo de formulário com vários tipos de animações com JS e CSS 
 
 ## Animações
 
