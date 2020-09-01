@@ -1,6 +1,6 @@
-# Formulário animado com JS puro e CSS Animation
+# Exemplo de formulário com vários tipos de animações com JS e CSS 
 
-## Desafios
+## Animações
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
 - [x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
@@ -46,7 +46,7 @@ podemos ter múltiplas animações no mesmo elemento
 ```
 
 
-## References
+## Referencias
 
 [CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
