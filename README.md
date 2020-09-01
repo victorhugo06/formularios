@@ -1,6 +1,6 @@
-# Exemplo de formulário com vários tipos de animações com JS e CSS 
+## Exemplo de formulário com vários tipos de animações com JS e CSS 
 
-## Animações
+# Animações
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
 - [x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
@@ -10,7 +10,7 @@
 - [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [x] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
 
-## Animation
+# Animation
 
 
 8 propriedades:
@@ -46,7 +46,7 @@ podemos ter múltiplas animações no mesmo elemento
 ```
 
 
-## Referencias
+# Referencias
 
 [CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
