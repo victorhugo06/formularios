@@ -43,15 +43,3 @@ podemos ter múltiplas animações no mesmo elemento
 .animate {
   animation: slide-top 2s, bounce 1s, fade 0.2s;
 }
-```
-
-
-## Referencias
-
-[CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-
-[Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
-
-[Site para criar animações](http://animista.net/play/basic/scale-up)
-
-[Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)
